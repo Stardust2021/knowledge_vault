@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "a47440c01a1c6681",
+    "type": "split",
+    "children": [
+      {
+        "id": "88f72f6bc3b69220",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Madhan see this!.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4da60f6ab1cd2459",
+    "type": "split",
+    "children": [
+      {
+        "id": "c657a925701f31f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36ee0db378dae973",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b7d2de5315be4be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f00c64a67055c6ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba5c05dea9f30e36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "848cfe6ce29194d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Madhan see this!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "88f72f6bc3b69220",
+  "lastOpenFiles": [
+    "Madhan see this!.md"
+  ]
+}

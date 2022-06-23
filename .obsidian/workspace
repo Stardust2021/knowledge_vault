@@ -7,12 +7,8 @@
         "id": "88f72f6bc3b69220",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "GIt demo.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIt demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

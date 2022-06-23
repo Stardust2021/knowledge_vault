@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "narut0.md",
+            "file": "pradeep.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "narut0.md",
+                "file": "pradeep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "88f72f6bc3b69220",
   "lastOpenFiles": [
+    "pradeep.md",
     "narut0.md",
     "Madhan see this!.md",
     "trail.md",
